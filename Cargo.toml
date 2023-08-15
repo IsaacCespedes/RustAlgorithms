@@ -1,2 +1,2 @@
 [workspace]
-members = ["sorting", "linked_list", "trees", "graphs"]
+members = ["sorting", "linked_lists", "trees", "graphs"]
