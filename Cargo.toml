@@ -1,2 +1,9 @@
 [workspace]
-members = ["sorting", "linked_lists", "trees", "graphs"]
+members = [
+  "sorting",
+  "linked_lists",
+  "trees",
+  "graphs",
+  "dynamic_programming",
+  "backtracking",
+]

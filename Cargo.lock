@@ -3,6 +3,14 @@
 version = 3
 
 [[package]]
+name = "backtracking"
+version = "0.1.0"
+
+[[package]]
+name = "dynamic_programming"
+version = "0.1.0"
+
+[[package]]
 name = "graphs"
 version = "0.1.0"
 
