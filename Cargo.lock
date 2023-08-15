@@ -3,5 +3,17 @@
 version = 3
 
 [[package]]
-name = "rust_algorithms"
+name = "graphs"
+version = "0.1.0"
+
+[[package]]
+name = "linked_list"
+version = "0.1.0"
+
+[[package]]
+name = "sorting"
+version = "0.1.0"
+
+[[package]]
+name = "trees"
 version = "0.1.0"
